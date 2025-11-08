@@ -6,3 +6,5 @@ Originally developed for the Technology Student Association (TSA) competition, t
 Our chemical verification experiments followed a stepwise process of converting NO to NO₂, forming HNO₃ through reaction with water and oxygen, and neutralizing it with NaOH to produce NaNO₃ and H₂O. The final solution reached a near-neutral pH (~6.5), confirming safe repurposability for industrial use.
 
 This process and its underlying chemistry were reviewed and validated by Dr. Sreekanth Kokkonda, a chemist at the University of Washington, who advised us on reaction optimization, safe nitric acid handling, and improving the overall neutralization mechanism.
+
+Engineers/Designers: Aryan Chinthamreddy, Siddharth Yenamandra
